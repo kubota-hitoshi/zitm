@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zitm", "zitm\zitm.csproj", "{D6E6EA44-FD2A-40B0-B6EA-3D2C0F0AAA1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E6EA44-FD2A-40B0-B6EA-3D2C0F0AAA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E6EA44-FD2A-40B0-B6EA-3D2C0F0AAA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E6EA44-FD2A-40B0-B6EA-3D2C0F0AAA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E6EA44-FD2A-40B0-B6EA-3D2C0F0AAA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B00C3885-5CF6-462E-B052-0ABFFE9E8B7E}
+	EndGlobalSection
+EndGlobal
